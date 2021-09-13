@@ -1,4 +1,4 @@
-# shehacks
+
 <!DOCTYPE html>
 <html>
 <head><title>shehacks 0</title>
